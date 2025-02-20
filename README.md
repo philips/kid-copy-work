@@ -1,6 +1,17 @@
 # Kid Copy Work
 
-These are tools I use to do "copy work" of my kid's works.
+These are tools I use to do "copy work" of my kid's works. The goals of this project are to:
+
+- Share works with family and friends
+- Backup work in case of disaster
+- Preserve work that might be fragile
+- Reduce storage by recycling some work
+
+Total cost in 2025 dollars $150:
+
+$99 - lights
+$22 - phone overhead mount
+$60 - any ol' tripod that will mount the overhead mount from the center post
 
 ## Prepare a Workspace
 
