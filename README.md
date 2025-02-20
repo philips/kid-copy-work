@@ -1,6 +1,6 @@
 # Kid Copy Work
 
-These are tools I use to do "copy work" of my kid's works. The goals of this project are to:
+These are tools I use to do "copy work" (take a photo) of my kid's works. I want to be able to do this a few times a year and be able to process hundreds of items in an hour or two. The reason for doing this project are to:
 
 - Share works with family and friends
 - Backup work in case of disaster
