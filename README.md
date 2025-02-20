@@ -31,7 +31,18 @@ Now, select the AirDrop'd photos via the "quick action" of "Remove Background".
 
 ![](imgs/remove-background.png)
 
-Move the photos with the backgrounds removed to the `in` directory in this git repo. Then run `python crop.py` which will crop the photos down to the bounding box of the work and add a white background.
+Now setup this repo:
+
+```
+git checkout https://github.com/philips/kid-copy-work
+cd kids-copy-work
+python3 -m venv .venv --prompt kids-copy-work
+source .venv/bin/activate
+```
+
+Move the photos with the backgrounds removed to the `in` directory in this git repo. Then run `python crop.py` which will crop the photos down to the bounding box of the work and add a white background. The photos will be in the `out` directory.
+
+
 
 At the end you should have a nice clean photo of the work
 
