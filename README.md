@@ -7,11 +7,11 @@ These are tools I use to do "copy work" of my kid's works. The goals of this pro
 - Preserve work that might be fragile
 - Reduce storage by recycling some work
 
-Total cost in 2025 dollars $150:
+Total cost in 2025 dollars $150 assuming you have a pocket terminal (e.g. iPhone or Android device):
 
-$99 - lights
-$22 - phone overhead mount
-$60 - any ol' tripod that will mount the overhead mount from the center post
+- $99 - lights
+- $22 - phone overhead mount
+- $60 - any ol' tripod that will mount the overhead mount from the center post
 
 ## Prepare a Workspace
 
